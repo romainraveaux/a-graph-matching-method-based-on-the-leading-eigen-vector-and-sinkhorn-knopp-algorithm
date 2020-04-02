@@ -11,6 +11,8 @@ Goals :
 *   Code in Python base Numpy and Matplotlib is proposed through a Jupyter Notebook.
 
 The tutorial can be found here. [HTML Notebook](http://romain.raveaux.free.fr/document/A+graph+matching+method+based+on+the+leading+Eigen+vector+and+Sinkhorn-Knopp+algorithm.html)
+
+
 ![alt text](http://romain.raveaux.free.fr/document/gmletter.PNG "GM")
 
 https://youtu.be/OXtZiShIjHg
